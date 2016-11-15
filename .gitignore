@@ -2,4 +2,5 @@
 *.sublime-project
 *.pyc
 *.csv
-*.txt
+*.txt*.png
+*.pyc
